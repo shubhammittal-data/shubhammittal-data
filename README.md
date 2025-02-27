@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Shubham Mittal - Data Steward | Business Analyst | Consumer Psychology & Behaviour Research Assistant
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/shubhammittal99)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/shubhammittal99/)  
 📧 Email: sm145@illinois.edu
 
 ## About Me  
