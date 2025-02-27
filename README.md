@@ -5,7 +5,6 @@
 📧 Email: sm145@illinois.edu
 
 ## About Me  
-Hi! I'm **Shubham Mittal**, 
 A passionate data and business analytics professional, currently pursuing a **Master of Science in Technology Management at Gies College of Business, UIUC**. With a strong foundation in data science, machine learning, and business strategy, I thrive at the intersection of analytics, decision-making, and innovation.
 
 I have hands-on experience in data visualization, predictive modeling, and consumer behavior research, leveraging AI and machine learning to drive business insights. As a **Research Assistant**, I am actively working on a research paper focused on consumer psychology and behavior, analyzing data-driven patterns to understand consumer decision-making.
