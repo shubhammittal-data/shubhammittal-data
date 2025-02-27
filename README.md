@@ -55,7 +55,7 @@ I enjoy solving complex business problems using data-driven approaches, leveragi
 
 
 ## 📫 Connect with Me  
-- **LinkedIn**: [LinkedIn](www.linkedin.com/in/shubhammittal99)  
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/shubhammittal99/)  
 - **Email**: sm145@illinois.edu  
 
 <!--
