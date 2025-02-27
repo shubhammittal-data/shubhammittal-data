@@ -34,9 +34,9 @@ I enjoy solving complex business problems using data-driven approaches, leveragi
 ### **Research Assistant | UIUC**  
 - Assisted in enhancing conceptual models to visually represent key relationships in consumer behavior research, ensuring theoretical frameworks are clear and impactful. 
 - Refined statistical tables and data visualizations, making complex findings more intuitive and accessible for academic and industry audiences.
-- Additionally, conducted literature reviews to explore emerging research ideas and identify potential directions for future studies.
+- Conducted literature reviews to explore emerging research ideas and identify potential directions for future studies.
 
-### **Discover Partners Institute (DPI) | Data Analytics**  
+### **Data Analyst | Discover Partners Institute (DPI)**  
 - Designed an interactive dashboard using Tableau to visualize 250,000+ data points, increasing data transparency for 50+ stakeholders.
 - Implemented ETL pipelines to integrate data from 5+ disparate sources, reducing inconsistencies by 15% and enhancing decision-making accuracy.
 - Developed and optimized custom SQL queries, improving dashboard load performance by 35% and ensuring scalability for future data growth.
