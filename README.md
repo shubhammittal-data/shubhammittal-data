@@ -30,7 +30,12 @@ I enjoy solving complex business problems using data-driven approaches, leveragi
 
 ---
 
-## 💼 Experience  
+## 💼 Experience
+### **Data Science Intern | Data Science Research Services, UIUC**  
+- Synthesized real-world trends using Langchain-driven LLMs to analyze large datasets, improving data integrity and report accuracy by 40% for cross-functional teams. 
+-	Developed a Streamlit application to simulate over 100 data scenarios, enhancing self-service data exploration and reducing analysis time by 60%, aligning with dashboard and metrics requirements. 
+-	Engineered a multi-agent LLM system for 50+ business scenarios to improve model adaptability and forecast precision, supporting end-to-end data processing and reporting efforts. 
+ 
 ### **Research Assistant | UIUC**  
 - Assisted in enhancing conceptual models to visually represent key relationships in consumer behavior research, ensuring theoretical frameworks are clear and impactful. 
 - Refined statistical tables and data visualizations, making complex findings more intuitive and accessible for academic and industry audiences.
